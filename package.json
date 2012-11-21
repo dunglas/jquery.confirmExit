@@ -1,26 +1,26 @@
 {
-    "name": "jquery.formNavigate",
-    "title": "jQuery formNavigate plugin",
+    "name": "jquery.confirmExit",
+    "title": "jQuery confirm before exit plugin",
     "description": "Ask user if he wants to quit a webpage with unsaved changes",
-    "version": "1.2.0",
-    "homepage": "https://github.com/dunglas/jquery.formNavigate",
+    "version": "1.0.0",
+    "homepage": "https://github.com/dunglas/jquery.confirmExit",
     "licenses": [
-        {
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/mit-license.php"
-        }
+    {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
     ],
     "author": {
-        "name": "KÃ©vin Dunglas",
+        "name": "KŽvin Dunglas",
         "email": "dunglas@gmail.com",
         "url": "http://dungmlas.fr"
     },
-    "maintainers": {
-        "name": "Law Ding Yong"
-    },
     "repository": {
         "type": "git",
-        "url": "git@github.com:dunglas/jquery.formNavigate.git"
+        "url": "https://github.com/dunglas/jquery.confirmExit.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dunglas/jquery.confirmExit/issues"
     },
     "dependencies": {
         "jquery": ">=1.8"

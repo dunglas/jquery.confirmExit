@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Demo</title>
+	<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/css/bootstrap-combined.min.css" rel="stylesheet">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/js/bootstrap.min.js"></script>
+	<script src="../jquery.confirmExit.js"></script>
+	<script>
+	$(document).ready(function () {
+		$('#my-form').confirmExit('Go away?');
+	});
+	</script>
+
+</head>
+<body>
+	<h1>jQuery confirmExit plugin demo</h1>
+
+	<a href="http://dunglas.fr">Go away!</a>
+
+	<form id="my-form" action="">
+		<label>select</label>
+		<select>
+			<option>Option 1</option>
+			<option>Option 2</option>
+		</select>
+
+		<label>textarea</label>
+		<textarea></textarea>
+
+		<label class="checkbox">checkbox
+			<input type="checkbox" />
+		</label>
+
+		<label>color</label>
+		<input type="color" />
+
+		<label>date</label>
+		<input type="date" />
+
+		<label>datetime</label>
+		<input type="datetime" />
+
+		<label>datetime-local</label>
+		<input type="datetime-local" />
+
+		<label>email</label>
+		<input type="email" />
+
+		<label>file</label>
+		<input type="file" />
+
+		<label>month</label>
+		<input type="month" />
+
+		<label>number</label>
+		<input type="number" />
+
+		<label>password</label>
+		<input type="password" />
+
+		<label class="radio">radio 1
+			<input type="radio" name="radio" />
+		</label>
+
+		<label class="radio">radio 2
+			<input type="radio" name="radio" />
+		</label>
+
+		<label>range</label>
+		<input type="range" />
+
+		<label>search</label>
+		<input type="search" />
+
+		<label>tel</label>
+		<input type="tel" />
+
+		<label>text</label>
+		<input type="text" />
+
+		<label>time</label>
+		<input type="time" />
+
+		<label>url</label>
+		<input type="url" />
+
+		<label>week</label>
+		<input type="week" />
+
+		<input type="submit" class="btn btn-primary" />
+		<input type="reset" class="btn" />
+	</form>
+</body>
+</html>

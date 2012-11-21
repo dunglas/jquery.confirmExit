@@ -1,0 +1,28 @@
+{
+    "name": "jquery.formNavigate",
+    "title": "jQuery formNavigate plugin",
+    "description": "Ask user if he wants to quit a webpage with unsaved changes",
+    "version": "1.2.0",
+    "homepage": "https://github.com/dunglas/jquery.formNavigate",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "author": {
+        "name": "Kévin Dunglas",
+        "email": "dunglas@gmail.com",
+        "url": "http://dungmlas.fr"
+    },
+    "maintainers": {
+        "name": "Law Ding Yong"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:dunglas/jquery.formNavigate.git"
+    },
+    "dependencies": {
+        "jquery": ">=1.8"
+    }
+}

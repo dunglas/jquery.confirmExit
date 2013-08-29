@@ -3,6 +3,7 @@
     "title": "jQuery confirm on exit plugin",
     "description": "Ask user if he wants to quit a webpage with unsaved changes.",
     "keywords": [
+        "form",
         "exit",
         "confirm"
     ],

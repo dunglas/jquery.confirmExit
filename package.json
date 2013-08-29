@@ -7,11 +7,11 @@
     "licenses": [
     {
         "type": "MIT",
-        "url": "http://www.opensource.org/licenses/mit-license.php"
+        "url": "https://github.com/dunglas/jquery.confirmExit/blob/master/LICENSE"
     }
     ],
     "author": {
-        "name": "KŽvin Dunglas",
+        "name": "KÃ©vin Dunglas",
         "email": "dunglas@gmail.com",
         "url": "http://dungmlas.fr"
     },

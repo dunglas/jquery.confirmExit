@@ -1,10 +1,10 @@
 {
     "name": "confirmExit",
-    "title": "jQuery confirm on exit",
-    "description": "jQuery plugin to ask confirmation before quitting the page.",
+    "title": "jQuery confirm on exit plugin",
+    "description": "Ask user if he wants to quit a webpage with unsaved changes.",
     "keywords": [
-        "color",
-        "animation"
+        "exit",
+        "confirm"
     ],
     "version": "1.0.0",
     "author": {

@@ -29,6 +29,6 @@
     "homepage": "http://dunglas.fr/2012/11/jquery-confirmexit-ou-comment-ne-plus-perdre-les-donnees-dun-formulaire-complete/",
     "docs": "https://github.com/dunglas/jquery.confirmExit",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.8"
     }
 }

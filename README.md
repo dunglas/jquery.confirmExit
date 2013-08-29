@@ -20,3 +20,7 @@ $("#the-form").confirmExit("Your message");
 
 - `the-form` is the form ID (works with any method to grab your form)
 - `Your message` is the message that will be displayed before the page exit
+
+## Credits
+
+This little plugin has been written by [Kévin Dunglas](http://dunglas.fr).
